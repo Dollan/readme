@@ -13,11 +13,11 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 Os seguintes pacotes/softwares devem ser instalatos ou atualizados para o sistema rodar corretamente.
 
--Node.js
+*Node.js
     [node.js](https://nodejs.org/en/).
--Android Studio
+*Android Studio
     [android_studio](https://developer.android.com/studio).
--React Native
+*React Native
     [react-native](https://reactnative.dev/docs/environment-setup).
 
 seguir passo a passo do site do React Native para configurar o ambiente android e dependencias adicionas, alem disso no site eles mostram como configurar essa parte em diferentes sistemas operacionais.
