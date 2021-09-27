@@ -12,7 +12,7 @@ Os seguintes pacotes/softwares devem ser instalados ou atualizados para o sistem
 seguir passo a passo do site do React Native para configurar o ambiente android e as dependências adicionais, além disso no site eles mostram como configurar essa parte em diferentes sistemas operacionais.
  
 # Como executar o projeto
-Na pasta clonado do projeto rode o comando npm install.
+Na pasta clonada do projeto rode o comando npm install.
  
 ```bash
 npm install
